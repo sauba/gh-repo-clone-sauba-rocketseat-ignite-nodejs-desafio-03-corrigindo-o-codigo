@@ -1,1 +1,1 @@
-# gh-repo-clone-sauba-rocketseat-ignite-nodejs-desafio-03-corrigindo-o-codigo
+# Repositório do desafio complementar 03 realiado no curso de nodejs pela Rocketseat 
